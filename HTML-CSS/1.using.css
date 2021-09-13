@@ -1,0 +1,12 @@
+.div1{
+    border: 1px solid blue;
+    width: 50%;
+    margin: auto;
+    
+}
+
+#par-1{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: blueviolet;
+}

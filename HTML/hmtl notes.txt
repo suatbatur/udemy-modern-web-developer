@@ -1,0 +1,5 @@
+1- sayfada şiir şeklinde yazımın gözükmesini istiyorsam <pre></pre> etiketi kullan.
+
+2- linkin farklı sekmede açılması için target.
+
+3- 

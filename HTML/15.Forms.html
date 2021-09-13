@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form ve Input</title>
+</head>
+<body>
+    <form>
+        <!--HTML5 Input-->
+        <label for="isim">Name</label> <br>
+        <input  id="isim" type="text" name="ad"> 
+        <br>
+        <label for="mail">E-Mail</label> <br>
+        <input  id="mail" type="email" name="email"> <br>
+        
+        <label for="pwd">Password</label> <br>
+        <input id="pwd" type="password" name="password" > <br>
+        
+        <label for="date">Date</label> <br>
+        <input id="date" type="date" name="date"> <br> <br>
+        
+        <label for="erkek">Male</label>
+        <input id="erkek"  type="radio" name="gender" value="Male">
+        <label for="kadın">Female</label>
+        <input id="kadın" type="radio" name="gender" value="Female"> <br> <br>
+        
+        <label>Hobiler</label> <br>
+        <label for="swim">Swim</label>
+        <input type="checkbox" name="yuz" id="swim"> <br>
+        <label for="bike">Bike</label>
+        <input type="checkbox" name="bın" id="bike"> <br>
+        <label for="run">Run</label>
+        <input type="checkbox" name="kos" id="run"> <br>
+        <br>
+        Degree <br>
+        <select name="degree" id="degree">
+            <option value="Bachelor">Lisans</option>
+            <option value="msc">Yuksek Lisans</option>
+            <option value="phd">Doktora</option>
+        </select> <br>
+
+        <textarea name="message" id="message" cols="20" rows="8" placeholder="Mesajınızı Yazınız..." ></textarea>
+
+
+
+
+        <br> <br>
+        <input type="reset" value="Reset">
+        <input type="submit" value="Submit">
+        <br>
+
+        
+
+        
+        
+
+
+
+
+
+    </form>
+    
+</body>
+</html>

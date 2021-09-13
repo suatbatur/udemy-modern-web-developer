@@ -1,0 +1,50 @@
+/* tüm h1 leri seç */
+/* h1{
+    color: red;
+    background-color: blue;
+} */
+/* tüm p leri seç */
+/* p{
+    color: red;
+    background-color: blue;
+} */
+
+/* #logo{
+    color: red;
+    background-color: blue;
+}
+.info{
+    color: blue;
+    background-color: red;
+} */
+/* #logo, .lead{
+    color: red;
+    background-color: blue;
+} */
+
+/* #para1.lead{
+    color: red;
+    background-color: blue;
+} */
+
+/* a{
+    text-decoration: none;
+} */
+
+/* ul nin altındaki li etiketlerini seçmek */
+/* ul li a {
+    text-decoration: none;
+} */
+
+/* .info span{
+    color: red;
+    background-color: yellowgreen;
+} */
+/* .class .primary{
+    color: blue;
+} */
+
+/* *{
+    color: red;
+    font-size: 30px;
+} */
